@@ -1,3 +1,7 @@
+<div>
+  <a href="https://github.com/mnldev65">
+</div>
+
 <h1 align="left">🎓 Estudante de ADS <br>🎨 Designer Gráfico em formação<br>💻 Futuro Desenvolvedor Full Stack</h1>
 
 ###
@@ -6,11 +10,15 @@
 
 ###
 
-<h2 align="left">Sobre mim:</h2>
+<h3 align="left">Sobre mim:</h3>
 
 ###
 
 <h5 align="left">Olá meu nome é Marlon, sou estudante de Análise e Desenvolvimento de Sistemas, tenho interesses em programação, design gráfico e fotografia.<br>🛠️ Criando projetos práticos para aprender e compartilhar minha evolução.<br>🎯 Objetivo: atuar como desenvolvedor e unir tecnologia + criatividade.</h5>
+
+###
+
+<h3 align="left">Minhas estatísticas no GitHub</h3>
 
 ###
 
@@ -26,25 +34,13 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mnldev65&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=mnldev65&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mnldev65&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<h3 align="center">Edição</h3>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="40" alt="premierepro logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
-</div>
-
-###
-
-<h3 align="center">Dev</h3>
+<h3 align="left">Dev</h3>
 
 ###
 
@@ -58,7 +54,7 @@
 
 ###
 
-<h2 align="center">Design Gráfico</h2>
+<h3 align="left">Design Gráfico</h3>
 
 ###
 
@@ -76,7 +72,19 @@
 
 ###
 
-<h5 align="center">CONTATOS</h5>
+<h3 align="left">Edição</h3>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="40" alt="premierepro logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
+</div>
+
+###
+
+<h4 align="center">CONTATOS</h4>
 
 ###
 
@@ -87,15 +95,5 @@
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Bluesky&logo=bluesky&label=&color=0285FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="bluesky logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mnldev65/mnldev65/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mnldev65/mnldev65/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mnldev65/mnldev65/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
